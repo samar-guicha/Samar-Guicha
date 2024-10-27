@@ -19,6 +19,6 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 😄 Random Dev Meme
-![]([https://i.imgur.com/4H7GTHy.jpg)
+<img src="https://link-to-your-uploaded-image.com/image.jpg" alt="Random Dev Meme" width="300"/>
 ---
-![Random Dev Meme](https://devhumor.com/content/uploads/images/June2024/dev_sleep_funny.jpg)
+[![](https://visitcount.itsvg.in/api?id=samar-guicha&icon=5&color=10)](https://visitcount.itsvg.in)
