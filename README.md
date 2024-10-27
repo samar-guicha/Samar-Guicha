@@ -21,4 +21,4 @@
 ### 😄 Random Dev Meme
 ![]([https://i.imgur.com/4H7GTHy.jpg)
 ---
-[![](https://visitcount.itsvg.in/api?id=samar-guicha&icon=5&color=10)](https://visitcount.itsvg.in)
+![Random Dev Meme](https://i.imgur.com/7D9nRMw.jpg)
