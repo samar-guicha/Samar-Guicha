@@ -21,4 +21,4 @@
 ### 😄 Random Dev Meme
 ![]([https://i.imgur.com/4H7GTHy.jpg)
 ---
-![Random Dev Meme](https://i.imgur.com/7D9nRMw.jpg)
+![Random Dev Meme](https://devhumor.com/content/uploads/images/June2024/dev_sleep_funny.jpg)
